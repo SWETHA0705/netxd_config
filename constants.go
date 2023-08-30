@@ -1,3 +1,3 @@
 package netxdconfig
 
-const port = "4000"
+const Port = "4000"
